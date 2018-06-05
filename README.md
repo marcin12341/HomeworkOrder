@@ -1,6 +1,6 @@
 <h1>Homework order</h1>
 Bob has many projects to do as a part of his studies so he has to prepare a schedule. Since there is a possibility that he may be unable to complete all the projects by their respective deadlines, he has to make sure that the most important ones are completed. The priority of projects may be subject to change over time.</br> 
-Projects may be divided in the groups. Bob may be interested in finding the project with a highest priority from a given group. The groups may be merged. Help Bob schedule his homework - implement the following operations:</br>
+Projects may be divided in the groups. Bob may be interested in finding the project with a highest priority from a given group. The groups may be merged. Help Bob schedule his homework - implement the following operations:</br></br>
 <ul><li>a group value - Add element with value to the group</li>
 <li>e group - Extract element with maximum value from the group and print it's value</li>
 <li>p group - Print values of all elements in the group according to their decreasing</li>
